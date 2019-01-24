@@ -1,6 +1,6 @@
 # React Redux Firebase App
 
-# installation Step
+# Installation Step
 ```bash
 # Require global package
 npm install -g parcel-bundler
