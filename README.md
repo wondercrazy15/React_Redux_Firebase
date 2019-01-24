@@ -3,22 +3,35 @@
 >Project structure
 ![alt text](https://github.com/wondercrazy15/React_Redux_Firebase/blob/master/Image/Project_Stracture.png)
 
-This project was bootstrapped with [Parcel](https://parceljs.org/).
 
-## Getting started
+## Functionality
 
-A Node.js 8.0.0+ setup with [yarn](https://yarnpkg.com/) is recommended.
+>Sorting
+![alt text](https://github.com/wondercrazy15/React_Redux_Firebase/blob/master/Image/Project_Stracture.png)
+
+
+>Filter Example
+![alt text](https://github.com/wondercrazy15/React_Redux_Firebase/blob/master/Image/Project_Stracture.png)
+
+
+>Filter Result
+![alt text](https://github.com/wondercrazy15/React_Redux_Firebase/blob/master/Image/Project_Stracture.png)
+
+
+>Date Filter
+![alt text](https://github.com/wondercrazy15/React_Redux_Firebase/blob/master/Image/Project_Stracture.png)
+
+
 
 ```bash
-# install dependencies
-yarn
+# Require global package
+npm install -g parcel-bundler
 
-# ...or if you'd like to use npm instead
-npm install
+# Installation
+$ npm install
 
-# serve with hot reload at localhost:1234
-yarn start
 
-# build for production
-yarn build
+# serve with  reload at localhost:1234
+$ npm start
+
 ```
